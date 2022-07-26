@@ -1,0 +1,1 @@
+ <!-- <td><img src="{{asset('uploads/members/' . $abal->image)}}" width="100px;" height="100px;" alt="Image"> </td> -->
